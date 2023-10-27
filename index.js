@@ -8,7 +8,7 @@ async function callApi() {
     `<tr>
     <td>${user.name}</td>
     <td>${user.email}</td>
-    <td>${user.usermame}</td>
+    <td>${user.username}</td>
     <td>${user.website}</td>
     <td>${user.phone}</td>
     </tr>`
